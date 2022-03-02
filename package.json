@@ -1,0 +1,14 @@
+{
+  "name": "apple-login",
+  "version": "1.0.0",
+  "repository": "https://github.com/sunrabbit123/apple-login.git",
+  "author": "sunrabbit123 <qudwls185@naver.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "dependencies": {
+    "got": "^12.0.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

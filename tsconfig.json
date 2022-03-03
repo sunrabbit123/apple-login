@@ -2,6 +2,9 @@
   "compilerOptions": {
     "module": "ESNext",
     "strict": true,
-    "noEmit": false
+    "noEmit": false,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "outDir": "./dist"
   }
 }
